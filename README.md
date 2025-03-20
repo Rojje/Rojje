@@ -2,7 +2,7 @@
 <h2 style="color: #00FFFF;">Let's make the right decisions based on our data 😉
 
 </h2>
-<img align="right" src="https://media.giphy.com/media/ct6rflNuA53eysRm2L/giphy.gif?cid=ecf05e476wa027lz0d34mtz3kzs6w5b60ybmf89cg430a3vz&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200">
+<img align="right" src="https://media.giphy.com/media/UJ5I7921pAOEU/giphy.gif?cid=790b7611ossuqoyt9af4n881y139qvongycfg7u06ln8lu07&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="180">
 
 
 I'm **Elian Mendoza**, a Data Science student passionate about advancing technology and expanding collective knowledge. In the meantime, I can help you uncover patterns in your data to enhance decision-making. For more information, feel free to reach out via my social media or email
@@ -30,7 +30,7 @@ I'm **Elian Mendoza**, a Data Science student passionate about advancing technol
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A84FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elian-mendoza-264a59173/)
-[![X](https://img.shields.io/badge/X-0A84FF?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ElianMendozarz)
+[![](https://img.shields.io/badge/X-0A84FF?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ElianMendozarz)
 [![Gmail](https://img.shields.io/badge/Gmail-0A84FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elianmendozar18@gmail.com)
 
 
