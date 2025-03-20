@@ -2,7 +2,7 @@
 <h2 style="color: #00FFFF;">Let's make the right decisions based on our data 😉
 
 </h2>
-<img align="right" src="https://media.giphy.com/media/UJ5I7921pAOEU/giphy.gif?cid=790b7611ossuqoyt9af4n881y139qvongycfg7u06ln8lu07&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="180">
+<img align="right" src="https://media.giphy.com/media/UJ5I7921pAOEU/giphy.gif?cid=790b7611ossuqoyt9af4n881y139qvongycfg7u06ln8lu07&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200">
 
 
 I'm **Elian Mendoza**, a Data Science student passionate about advancing technology and expanding collective knowledge. In the meantime, I can help you uncover patterns in your data to enhance decision-making. For more information, feel free to reach out via my social media or email
