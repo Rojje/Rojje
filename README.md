@@ -1,5 +1,5 @@
-# Rojje
-### 👋 ¡Hola! Soy [Tu Nombre]  
+#Me
+### Elian Mendoza   
 🚀 Apasionado por la tecnología, los negocios y la innovación.  
 💡 CEO Jr. de UTOPIA PARAGUAY | Explorando energías renovables y sostenibilidad.  
 📚 Aprendiendo sobre inversión, UX, trading y machine learning.  
@@ -17,12 +17,13 @@
 ### 🛠️ Tecnologías y herramientas  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
 ![Numpy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)  
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=python&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)  
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 ---
 
 ### 📈 Últimos proyectos  
