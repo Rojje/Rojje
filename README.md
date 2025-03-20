@@ -1,43 +1,83 @@
-#Me
-### Elian Mendoza   
-🚀 Apasionado por la tecnología, los negocios y la innovación.  
-💡 CEO Jr. de UTOPIA PARAGUAY | Explorando energías renovables y sostenibilidad.  
-📚 Aprendiendo sobre inversión, UX, trading y machine learning.  
+# Konichiwa 👋
 
----
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+</div>
 
-### 📌 Sobre mí  
-- 🔬 Me interesa la ciencia, la ingeniería y la IA.  
-- ⚡ Buscando soluciones para el cambio climático y nuevas fuentes de energía.  
-- 🎯 Me gusta resolver problemas que ayuden a mejorar la vida de las personas.  
-- 📊 Me apasiona hacer crecer empresas y optimizar procesos.  
+</br>
+</br>
+</br>
 
----
 
-### 🛠️ Tecnologías y herramientas  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![Numpy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=python&logoColor=white)  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+# About ME 💬 :
+
+### - I'm 19 years  old Machine Learning & Artificial Intelligence Enthusiast from Ecuador.
+
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+
+### - Learning :
+- ✨ Data Structures & Algorithms
+- ✨ Generative Adversarial Networks
+
+### - Hobbies : 
+- ✨ Gaming Addict
+- ✨ Watching Anime
+- ✨ Reading Light Novels
+- ✨ Badminton (Neighbourhood Professional XD)
+
+</br>
+</br>
+</br>
+
+
+
+# Languages & Tools 👨‍💻 🛠:
+</br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
+</br>
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
+</br>
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
 </p>
----
+</br>
+</br>
+</br>
 
-### 📈 Últimos proyectos  
-🔹 **Optimización del uso del recurso agua en un hogar** (Machine Learning & Python)  
-🔹 **Análisis de datos con Pandas y Matplotlib**  
-🔹 **Automatización de procesos con Python y SQL**  
 
----
 
-### 📫 ¡Conectemos!  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/)  
-[![Correo](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)  
+# Contact Me :
 
----
+<p>
+ </br>
 
-⭐ **"No es la especie más fuerte la que sobrevive, ni la más inteligente, sino la que mejor responde al cambio."** - Charles Darwin  
+
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+
+<a href="mailto:ashutosh.saxena.2001@gmail.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+</a>
+<a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+</br>
+</br>
+</br>
+</a>
+
+
+
+<p align="center" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
+  </a>
+  </p>
