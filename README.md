@@ -1,43 +1,55 @@
-## Power is nothing without purpose
-<h2 style="color: #00FFFF;">Let's make the right decisions based on our data 😉
+# Elian D. Mendoza // AI & Computer Vision Engineer (in training)
 
-</h2>
-<img align="right" src="https://media.giphy.com/media/UJ5I7921pAOEU/giphy.gif?cid=790b7611ossuqoyt9af4n881y139qvongycfg7u06ln8lu07&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200">
-
-
-I'm **Elian Mendoza**, a Data Science student passionate about advancing technology and expanding collective knowledge. In the meantime, I can help you uncover patterns in your data to enhance decision-making. For more information, feel free to reach out via my social media or email
+> *"To conquer the world, you must first take the first step."* — Inspired by Alexander the Great  
 
 ---
 
-## Technologies & Skills
+### ⚔️ Mission & Doctrine  
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-FF6F61?style=flat-square&logo=matplotlib&logoColor=white)](https://matplotlib.org)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org)
+I’m Elian Mendoza, at the beginning of my journey in **Artificial Intelligence and Computer Vision**.  
+My doctrine is **“Burning the ships”**: moving forward with no retreat, documenting each step of the way.  
 
----
-
-## Projects
-
-- **Coming soon 1** 
-- **Coming soon 2** 
-- **Coming soon 3** 
+This repository is not a showcase of finished products, but rather my **campaign diary**, where even a simple “Hello World” stands as proof of progress.  
 
 ---
 
-## Connect
+### 🛠️ The Armory (Tech Stack in progress)  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A84FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elian-mendoza-264a59173/)
-[![](https://img.shields.io/badge/X-0A84FF?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ElianMendozarz)
-[![Gmail](https://img.shields.io/badge/Gmail-0A84FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elianmendozar18@gmail.com)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)  
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)  
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)  
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)  
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-FF6F61?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org)  
 
-
-
+- **Foundations (currently learning):** Linear Algebra, Computational Geometry, Calculus, Data Structures.  
+- **Tools:** Git.  
 
 ---
-> **"I've always believed that if we had enough information about the past, we could accurately predict the future. That's why you should use your data wisely to make the right decisions."**
-> 
-> — *Elian Mendoza*
+
+### 🔥 The Forge (Project Philosophy)  
+
+In this forge, every repository is a step in the journey.  
+
+You won’t find “finished products” here, but rather **battle evidence**: from the first *Hello World* to tackling increasingly complex problems.  
+
+Each commit is a small victory. Each project, a new milestone forward.  
+
+---
+
+### 📓 Campaign Log (Journaling)  
+
+- **Day 1:** Hello World in Python.  
+- **Week 1:** Exploring NumPy.  
+- **Week 2:** First battles with Pandas and data analysis.  
+*(The list will grow with every conquest.)*  
+
+---
+
+### 🌍 Outposts (Connect)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A84FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elian-mendoza-264a59173/)  
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ElianMendozarz)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elianmendozar18@gmail.com)  
+
+---
 
