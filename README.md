@@ -1,4 +1,4 @@
-## Hello everyone !
+## Power is nothing without purpose
 <h2 style="color: #00FFFF;">Let's make the right decisions based on our data 😉
 
 </h2>
